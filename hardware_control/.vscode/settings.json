@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.ino": "cpp",
+        "*.h": "c",
+        "*.s": "arm",
+        "limits": "c",
+        "memory": "c",
+        "cstddef": "c",
+        "xutility": "c"
+    }
+}
